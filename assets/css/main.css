@@ -1892,6 +1892,10 @@ body {
   z-index: 400;
 }
 
+.emptyPostBlock {
+  text-align: center;
+}
+
 .blockGroup {
   margin: 0;
   padding: 0;
